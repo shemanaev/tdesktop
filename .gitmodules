@@ -1,6 +1,6 @@
 [submodule "Telegram/ThirdParty/libtgvoip"]
 	path = Telegram/ThirdParty/libtgvoip
-	url = https://github.com/telegramdesktop/libtgvoip
+	url = https://github.com/shemanaev/libtgvoip
 [submodule "Telegram/ThirdParty/variant"]
 	path = Telegram/ThirdParty/variant
 	url = https://github.com/mapbox/variant
